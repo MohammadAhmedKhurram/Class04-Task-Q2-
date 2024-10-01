@@ -20,13 +20,7 @@ export default function Home() {
       >
         Dynamic Routing Task by{" "}
         <strong>
-          <i
-            style={{
-              color: "#D73E10",
-            }}
-          >
-            "Muhammad Ahmed"
-          </i>
+          <i style={{ color: "#D73E10" }}>&quot;Muhammad Ahmed&quot;</i>
         </strong>
       </p>
 
